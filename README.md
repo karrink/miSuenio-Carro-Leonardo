@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leonardo carro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo carro" height="30" width="40" /></a>
-<a href="https://fb.com/jesús joao ogum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jesús joao ogum" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonardo-carro-70a8a8241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo carro" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100015656958776" target="Leonardo Carro"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jesús joao ogum" height="30" width="40" /></a>
 <a href="https://instagram.com/leitocarro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leitocarro" height="30" width="40" /></a>
 </p>
 
