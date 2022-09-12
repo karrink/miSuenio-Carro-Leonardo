@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "nombre": "Aceite",
+        "precio": 1950
+    },
+    {
+        "id": 1,
+        "nombre": "Arroz",
+        "precio": 85
+    },
+    {
+        "id": 2,
+        "nombre": "Azucar",
+        "precio": 195
+    },
+    {
+        "id": 3,
+        "nombre": "Café",
+        "precio": 800
+    },
+    {
+        "id": 4,
+        "nombre": "Choclo",
+        "precio": 400
+    },
+    {
+        "id": 5,
+        "nombre": "Fideos",
+        "precio": 325
+    },
+    {
+        "id": 6,
+        "nombre": "Harina",
+        "precio": 650
+    },
+    {
+        "id": 7,
+        "nombre": "Leche",
+        "precio": 4160
+    },
+    {
+        "id": 8,
+        "nombre": "Lentejas",
+        "precio": 316
+    },
+    {
+        "id": 9,
+        "nombre": "Provenzal",
+        "precio": 256
+    },
+    {
+        "id": 10,
+        "nombre": "Té",
+        "precio": 360
+    },
+    {
+        "id": 11,
+        "nombre": "Whisky",
+        "precio": 4550
+    }
+]
